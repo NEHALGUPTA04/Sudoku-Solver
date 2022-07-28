@@ -15,6 +15,8 @@ To solve sudoku one doesn't require the knowledge of mathematics but require the
 * I implementd backtracking and recursion using c++
 * This project is the practical implementation of DSA topics
 * This program is to solve Sudoku puzzle using backtracking algorithm. The program should be designed to solve any NxN Sudoku. However, due to the complexity of large     puzzles, only 9x9  is used.
+
+
 *  Two buttons are given -
-** to create puzzle
-** to solve puzzle
+1) To Get Puzzle
+2) To display solved puzzle
