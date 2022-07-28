@@ -20,14 +20,14 @@ To solve sudoku one doesn't require the knowledge of mathematics but require the
 ![sudoku](https://user-images.githubusercontent.com/74699753/181472603-1f3e4c02-c385-4fea-8a8b-90770e06c051.png)
 
 *  Two buttons are given -
-1) ## To Create Puzzle 
+## 1) To Create Puzzle 
  
  This button create different random sudoku puzzles
 
 ![Create Puzzle](https://user-images.githubusercontent.com/74699753/181473031-5043e235-0e53-42ac-a807-718eee8c7646.png)
 
 
-3) ## To display solved puzzle
+## 2) To display solved sudoku puzzle
 
 This button displays the solution of the given sudoku puzzles
 
