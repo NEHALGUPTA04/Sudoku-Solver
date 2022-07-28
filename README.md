@@ -16,8 +16,16 @@ To solve sudoku one doesn't require the knowledge of mathematics but require the
 * This project is the practical implementation of DSA topics
 * This program is to solve Sudoku puzzle using backtracking algorithm. The program should be designed to solve any NxN Sudoku. However, due to the complexity of large     puzzles, only 9x9  is used.
 
-<img src = "Pictures\Screenshots\sudoku.png">
+
+![sudoku](https://user-images.githubusercontent.com/74699753/181472603-1f3e4c02-c385-4fea-8a8b-90770e06c051.png)
 
 *  Two buttons are given -
 1) To Get Puzzle
-2) To display solved puzzle
+
+![Create Puzzle](https://user-images.githubusercontent.com/74699753/181473031-5043e235-0e53-42ac-a807-718eee8c7646.png)
+
+
+3) To display solved puzzle
+
+
+![Solve Puzzle](https://user-images.githubusercontent.com/74699753/181473259-62bce4c9-1841-428f-970c-86494bf14e96.png)
