@@ -19,7 +19,10 @@ To solve sudoku one doesn't require the knowledge of mathematics but require the
 
 ![sudoku](https://user-images.githubusercontent.com/74699753/181472603-1f3e4c02-c385-4fea-8a8b-90770e06c051.png)
 
-## *  Two buttons are given -
+## Two buttons are displayed -
+
+
+
 ## 1) To Create Puzzle 
  
  This button create different random sudoku puzzles
